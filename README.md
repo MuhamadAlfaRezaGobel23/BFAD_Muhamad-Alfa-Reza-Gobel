@@ -1,31 +1,20 @@
-# 🚲 Bike Sharing Dashboard
 
-Dashboard ini dibuat menggunakan **Streamlit** untuk menganalisis data penyewaan sepeda berdasarkan waktu, cuaca, dan faktor lainnya.
-
----
-
-## Struktur Project
-Proyek Fundamental Analisis Data/
-│
-├── Dashboard/
-│ ├── dasbhoard.py
-│ └── main_data.csv
-│
-├── data/
-├── Notebook.ipynb
-└── requirements.txt
-
+👉 HARUS ADA:
+- buka ```bash
+- isi command
+- tutup ```
 
 ---
 
+# 🚀 VERSI YANG BENAR (COPY INI)
+
+Ini contoh README yang benar supaya TIDAK NYATU:
+
+```markdown id="fixfinal"
 ## Setup Environment
 
-### 1. Masuk ke folder project
+### 1. Masuk folder project
 ```bash
-cd "Proyek Fundamental Analisis Data/Dashboard"
+cd "Proyek Fundamental Analisis Data/Dashboard"```
 
-
----
-
-### 2. Install dependencies
-pip install -r requirements.txt
+### 2.
