@@ -1,12 +1,12 @@
 # 🚲 Bike Sharing Dashboard
 
-## 📌 Deskripsi
+##  Deskripsi
 Project ini adalah dashboard interaktif menggunakan Streamlit untuk menganalisis data penyewaan sepeda berdasarkan waktu, cuaca, dan pola penggunaan.
 
 
 ---
 
-## ⚙️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### 1. Masuk ke folder project
 cd "Proyek Fundamental Analisis Data/Dashboard"
@@ -19,7 +19,7 @@ streamlit run dasbhoard.py
 
 ---
 
-## 📊 Fitur Dashboard
+## Fitur Dashboard
 - Visualisasi jumlah penyewaan sepeda
 - Analisis berdasarkan waktu
 - Analisis berdasarkan cuaca
@@ -27,7 +27,7 @@ streamlit run dasbhoard.py
 
 ---
 
-## 🧠 Tools yang Digunakan
+## Tools yang Digunakan
 - Python
 - Streamlit
 - Pandas
@@ -36,5 +36,5 @@ streamlit run dasbhoard.py
 
 ---
 
-## 👨‍💻 Muhamad Alfa Reza Gobel
-Nama kamu
+##  Author
+Muhamad Alfa Reza Gobel
