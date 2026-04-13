@@ -23,3 +23,9 @@ Proyek Fundamental Analisis Data/
 ### 1. Masuk ke folder project
 ```bash
 cd "Proyek Fundamental Analisis Data/Dashboard"
+
+
+---
+
+### 2. Install dependencies
+pip install -r requirements.txt
