@@ -1,14 +1,25 @@
-# Bike Sharing Dashboard
+# 🚲 Bike Sharing Dashboard
 
-## Setup Environment - Anaconda
-```bash
-conda create --name main-ds python=3.12
-conda activate main-ds
-pip install -r requirements.txt
+Dashboard ini dibuat menggunakan **Streamlit** untuk menganalisis data penyewaan sepeda berdasarkan waktu, cuaca, dan faktor lainnya.
 
 ---
 
-## Run Streamlit App
+## Struktur Project
+Proyek Fundamental Analisis Data/
+│
+├── Dashboard/
+│ ├── dasbhoard.py
+│ └── main_data.csv
+│
+├── data/
+├── Notebook.ipynb
+└── requirements.txt
 
+
+---
+
+## Setup Environment
+
+### 1. Masuk ke folder project
 ```bash
-streamlit run dashboard.py
+cd "Proyek Fundamental Analisis Data/Dashboard"
