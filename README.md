@@ -1,7 +1,8 @@
-## Setup Environment - Anaconda
-conda create --name bike-ds python=3.12
-conda activate bike-ds
-pip install -r requirements.txt
+# Bike Sharing Dashboard
 
-## Run Streamlit App
-streamlit run dashboard.py
+## Setup Environment - Anaconda
+
+```bash
+conda create --name main-ds python=3.12
+conda activate main-ds
+pip install -r requirements.txt
