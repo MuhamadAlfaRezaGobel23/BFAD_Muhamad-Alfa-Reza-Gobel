@@ -20,7 +20,7 @@ menggunakan **Bike Sharing Dataset**.
 """)
 
 # LOAD DATA
-data = pd.read_csv("D:/TUGAS KAMPUS SEMESTER 6/DICODING/Kodingan/Proyek Fundamental Analisis Data/Dashboard/main_data.csv")
+data = pd.read_csv("main_data.csv")
 
 if "instant" in data.columns:
     data = data.drop(columns=["instant"])
